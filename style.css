@@ -1,0 +1,12 @@
+.botones{
+    padding: 10px 30px;
+    display: inline-block;
+    color: black;
+    background-color: purple;
+    text-decoration: none;
+    
+}
+h1{
+    color: red;
+    margin: 100px;
+}
