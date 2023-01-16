@@ -1,12 +1,33 @@
-.botones{
+.nav-enlace{
     padding: 10px 30px;
     display: inline-block;
     color: black;
     background-color: purple;
     text-decoration: none;
+    display: block;
     
 }
+nav{
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+nav :hover{
+    background-color: rgb(99, 56, 99);
+}
+
+
+div{
+    display:flex;
+    
+}
+
 h1{
     color: red;
     margin: 100px;
+}
+.texto{
+    margin-left: 80px;
+    padding: 40px;
+    font-size: 20px;
 }
